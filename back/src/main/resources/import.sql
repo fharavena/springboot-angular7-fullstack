@@ -1,0 +1,11 @@
+insert into clientes (nombre,apellido,email,create_at) values('nombre1','apellido1','usuario1@correo.cl','2020-02-01');
+insert into clientes (nombre,apellido,email,create_at) values('nombre2','apellido2','usuario2@correo.cl','2020-02-02');
+insert into clientes (nombre,apellido,email,create_at) values('nombre3','apellido3','usuario3@correo.cl','2020-02-03');
+insert into clientes (nombre,apellido,email,create_at) values('nombre4','apellido4','usuario4@correo.cl','2020-02-04');
+insert into clientes (nombre,apellido,email,create_at) values('nombre5','apellido5','usuario5@correo.cl','2020-02-05');
+insert into clientes (nombre,apellido,email,create_at) values('nombre6','apellido6','usuario6@correo.cl','2020-02-06');
+insert into clientes (nombre,apellido,email,create_at) values('nombre7','apellido7','usuario7@correo.cl','2020-02-07');
+insert into clientes (nombre,apellido,email,create_at) values('nombre8','apellido8','usuario8@correo.cl','2020-02-08');
+insert into clientes (nombre,apellido,email,create_at) values('nombre9','apellido9','usuario9@correo.cl','2020-02-09');
+insert into clientes (nombre,apellido,email,create_at) values('nombre11','apellido11','usuario11@correo.cl','2020-02-11');
+insert into clientes (nombre,apellido,email,create_at) values('nombre12','apellido12','usuario12@correo.cl','2020-02-12');

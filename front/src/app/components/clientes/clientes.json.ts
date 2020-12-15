@@ -1,0 +1,88 @@
+import { Cliente } from "../../models/cliente";
+
+export const CLIENTES: Cliente[] = [
+  {
+    id: 1,
+    nombre: 'nombre1',
+    apellido: 'apellido1',
+    createAt: '2020-12-12',
+    email: 'email1@mail.com',
+  },
+  {
+    id: 2,
+    nombre: 'nombre2',
+    apellido: 'apellido2',
+    createAt: '2020-12-12',
+    email: 'email2@mail.com',
+  },
+  {
+    id: 3,
+    nombre: 'nombre3',
+    apellido: 'apellido3',
+    createAt: '2020-12-12',
+    email: 'email3@mail.com',
+  },
+  {
+    id: 4,
+    nombre: 'nombrex',
+    apellido: 'apellidox',
+    createAt: '2020-12-12',
+    email: 'emailx@mail.com',
+  },
+  {
+    id: 5,
+    nombre: 'nombre5',
+    apellido: 'apellido5',
+    createAt: '2020-12-12',
+    email: 'email5@mail.com',
+  },
+  {
+    id: 6,
+    nombre: 'nombre6',
+    apellido: 'apellido6',
+    createAt: '2020-12-12',
+    email: 'email6@mail.com',
+  },
+  {
+    id: 7,
+    nombre: 'nombre7',
+    apellido: 'apellido7',
+    createAt: '2020-12-12',
+    email: 'email7@mail.com',
+  },
+  {
+    id: 8,
+    nombre: 'nombre8',
+    apellido: 'apellido8',
+    createAt: '2020-12-12',
+    email: 'email8@mail.com',
+  },
+  {
+    id: 9,
+    nombre: 'nombre9',
+    apellido: 'apellido9',
+    createAt: '2020-12-12',
+    email: 'email9@mail.com',
+  },
+  {
+    id: 10,
+    nombre: 'nombre10',
+    apellido: 'apellido10',
+    createAt: '2020-12-12',
+    email: 'email10@mail.com',
+  },
+  {
+    id: 11,
+    nombre: 'nombre11',
+    apellido: 'apellido11',
+    createAt: '2020-12-12',
+    email: 'email11@mail.com',
+  },
+  {
+    id: 12,
+    nombre: 'nombre12',
+    apellido: 'apellido12',
+    createAt: '2020-12-12',
+    email: 'email12@mail.com',
+  },
+];
